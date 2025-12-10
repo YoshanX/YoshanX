@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :school: I am an Undergraduate at Faculty of Statistics & Operations Research at University of Peradeniya.
+- :school: I am an Undergraduate at  Statistics & Operations Research at University of Peradeniya.
 - :trophy: Data Science, AI & ML Enthusiast.
 - :technologist: I love building AI solutions in a creative way to solve real-world problems.
 - :computer: I am passionate about Data Science, Machine Learning, and Graphic Design.
